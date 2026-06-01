@@ -30,7 +30,7 @@ Groupe:
 |:--:|:--|
 | Clavier | Lucian |
 | Guitare | Dimitri |
-| Basse | - |
+| Basse | Olivier |
 | Batterie | Rollie (?) |
 
 ### Tourments / Chaomans
@@ -40,7 +40,7 @@ Groupe:
 |:--:|:--|
 | Clavier | Lucian |
 | Guitare | Dimitri |
-| Basse | - |
+| Basse | Olivier |
 | Batterie | Rollie (?) |
 
 ## Répétitions
